@@ -2,6 +2,10 @@
 
 Create you wallet using web3.js and ethereum testnet
 
+- YouTube Video
+
+[![Crypto Wallet](https://img.youtube.com/vi/-bYKhrdSDeg/0.jpg)](https://www.youtube.com/watch?v=-bYKhrdSDeg&list=PLf6bwte-_HkIJ2aj4PdUpXHWmJJBoYuvz&index=5)
+
 ## Project Setup
 
 1. Install node.js
